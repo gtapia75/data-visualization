@@ -12,7 +12,7 @@ Track sprint completion rates and story point velocity
 ## Methodology
 The analysis uses data extracted from our daily ticketing system, focusing on two-week sprint cycles following Scrum methodology.
 
-##Data Structure
+## Data Structure
 
 |Field | Description |
 | --- | --- |
