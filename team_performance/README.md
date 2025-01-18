@@ -1,11 +1,16 @@
-This is a project used to do a quick analysis of a team of Engineers performance during a specific period of time.
+Engineering Team Performance Analysis
+Overview
+This project presents a comprehensive analysis of a Development Engineering Team's performance metrics and workload distribution. By leveraging data from our ticketing system, we gain valuable insights into team productivity and individual contributions within our Scrum framework.
+Objectives
 
-We used data from Jira, basically we extracted a few key values 
-- Sprint ID
-- Ticket ID
-- Ticket Description
-- Story Points
-- Status
-- Engineer Name
+Evaluate team workload distribution and capacity
+Analyze individual engineer performance and contributions
+Track sprint completion rates and story point velocity
 
-I generate some plots to do a presentation to the upper management about team performance and individual effort of our engineering team. We did this analysis to show case the improvement of the team during the time.
+Methodology
+The analysis uses data extracted from our daily ticketing system, focusing on two-week sprint cycles following Scrum methodology.
+Data Structure
+
+| Field | Description |
+| --- | --- |
+sprintSprint identifier (Format: Q#-S# where Q=Quarter, S=Sprint number)ticketUnique ticket identifier (Format: PROJ#-### e.g., PROJ1-520)descriptionBrief task descriptionstory_pointsEffort estimation assigned by the teamstatusCurrent ticket statusengineerAssigned team member
