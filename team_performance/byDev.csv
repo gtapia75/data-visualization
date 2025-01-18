@@ -1,0 +1,169 @@
+﻿sprint,ticket,description,story_points,Status,engineer
+Q1-S1,PROJ1-520,Paid Impressions in 2022 not lining up with Platform metrics,2,DONE,Engineer 1
+Q1-S1,PROJ1-515,Convert Data Stored in the S3 bucket into a SQL Table.,1,DONE,Engineer 2
+Q1-S1,PROJ1-497,Monthly Report - BAU,3,DONE,Engineer 1
+Q1-S1,PROJ1-499,BAU DE Support Q1-24-S1,2,DONE,Engineer 1
+Q1-S1,PROJ1-499,BAU DE Support Q1-24-S1,1,DONE,Engineer 3
+Q1-S1,PROJ1-491,S1-Q4-24 Compliance requests 01/03-01/16,2,DONE,Engineer 1
+Q1-S1,PROJ1-485,S1-Q1-24 Sprint Airflow Support 01/03-01/16,2,DONE,Engineer 3
+Q1-S1,PROJ1-453,Need Redshift Credentials for CDP Warehouse Sync API,3,DONE,Engineer 4
+Q1-S2,PROJ1-538,SPIKE - Understand differences between lithium and next web,2,DONE,Engineer 4
+Q1-S2,PROJ1-536,Redshift Serverless POC: Tableau extract testing,2,DONE,Engineer 1
+Q1-S2,PROJ1-532,Braze Email Metrics for Email Cohorts (Campaigns),2,DONE,Engineer 3
+Q1-S2,PROJ1-528,Visits and PVs by Last Touch,1,DONE,Engineer 1
+Q1-S2,PROJ1-522,SPIKE - CMS API review,5,DONE,Engineer 4
+Q1-S2,PROJ1-521,SQL Jan24 Data - extra characters,2,DONE,Engineer 3
+Q1-S2,PROJ1-519,Historical leads data in Braze,5,DONE,Engineer 4
+Q1-S2,PROJ1-513,SPIKE - Identify data collected from CMS in Redshift,5,DONE,Engineer 4
+Q1-S2,PROJ1-511,Document the deletion process for GDPR / CCPA,2,DONE,Engineer 1
+Q1-S2,PROJ1-500,BAU DE Support Q1-24-S2,2,DONE,Engineer 1
+Q1-S2,PROJ1-500,BAU DE Support Q1-24-S2,5,DONE,Engineer 4
+Q1-S2,PROJ1-500,BAU DE Support Q1-24-S2,1,DONE,Engineer 3
+Q1-S2,PROJ1-492,S2-Q4-24 Compliance requests 01/17-01/30,5,DONE,Engineer 1
+Q1-S2,PROJ1-486,S2-Q1-24 Sprint Airflow Support 01/17-01/30,2,DONE,Engineer 3
+Q1-S2,PROJ1-468,DTC Widget Data View,5,DONE,Engineer 4
+Q1-S2,PROJ1-461,Braze Email Metrics for Email Cohorts,5,DONE,Engineer 3
+Q1-S2,PROJ1-444,Braze welcome journeys have completely stopped sending.,5,DONE,Engineer 4
+Q1-S2,PROJ1-440,Update data from may 2022 in bi.impressions_by_categories_timeframe table,3,DONE,Engineer 1
+Q1-S2,PROJ1-315,Redshift Serverless POC: Benchmark testing,5,DONE,Engineer 1
+Q1-S3,PROJ1-546,EC2 Airflow to AWS Airflow: Mux - unload parquet files,2,DONE,Engineer 3
+Q1-S3,PROJ1-542,Change data load schedules,1,DONE,Engineer 4
+Q1-S3,PROJ1-540,Monthly Report - BAU,3,DONE,Engineer 1
+Q1-S3,PROJ1-539,CMS Article Data Discrepancy - Missing Updated Article Data,3,DONE,Engineer 1
+Q1-S3,PROJ1-534,SPIKE - CMS API review,3,DONE,Engineer 4
+Q1-S3,PROJ1-533,FAST TV: Programming Schedule,2,DONE,Engineer 3
+Q1-S3,PROJ1-518,Subscribers List Pull - Lowrider - Beginning 2017 (Reconcile with Active Subs from MT and HR - Print + Digital),8,DONE,Engineer 2
+Q1-S3,PROJ1-517,GAM data discrepancy 12/14/23-01/03.24,5,DONE,Engineer 1
+Q1-S3,PROJ1-501,BAU DE Support Q1-24-S3,3,DONE,Engineer 1
+Q1-S3,PROJ1-501,BAU DE Support Q1-24-S3,2,DONE,Engineer 4
+Q1-S3,PROJ1-501,BAU DE Support Q1-24-S3,3,DONE,Engineer 3
+Q1-S3,PROJ1-493,S3-Q4-24 Compliance requests 01/31-02/13,2,DONE,Engineer 1
+Q1-S3,PROJ1-487,S3-Q1-24 Sprint Airflow Support 01/31-02/13,2,DONE,Engineer 3
+Q1-S3,PROJ1-478,EC2 Airflow to AWS Airflow: Mux - data pull,2,DONE,Engineer 3
+Q1-S3,PROJ1-474,"Please identify any new French Canadian users in Braze (Mobile, Desktop and CTV) so we can exclude them.",5,DONE,Engineer 2
+Q1-S3,PROJ1-472,EC2 Airflow to AWS Airflow: Wurl Fast TV,2,DONE,Engineer 3
+Q1-S3,PROJ1-471,EC2 Airflow to AWS Airflow: Comscore,1,DONE,Engineer 3
+Q1-S3,PROJ1-356,Data Validation - UUID Redshift,3,DONE,Engineer 2
+Q1-S3,PROJ1-355,Data Validation - UUID GAM,2,DONE,Engineer 2
+Q1-S4,PROJ1-556,Extract users lists to notify subscription updates,5,DONE,Engineer 1
+Q1-S4,PROJ1-554,SPIKE - CMS API review,3,DONE,Engineer 4
+Q1-S4,PROJ1-543,Send Monthly Email campaigns performance Data to Finance,3,CLOSED,Engineer 2
+Q1-S4,PROJ1-530,SPIKE - Hot Wheels data file missing orders,3,CLOSED,Engineer 3
+Q1-S4,PROJ1-526,Update BG_PG data for November 2023 and December 2023,1,DONE,Engineer 1
+Q1-S4,PROJ1-502,BAU DE Support Q1-24-S4,20,DONE,Engineer 1
+Q1-S4,PROJ1-502,BAU DE Support Q1-24-S4,1,DONE,Engineer 3
+Q1-S4,PROJ1-494,S4-Q4-24 Compliance requests 02/14-02/27,2,DONE,Engineer 1
+Q1-S4,PROJ1-488,S4-Q1-24 Sprint Airflow Support 02/14-02/27,2,DONE,Engineer 3
+Q1-S5,PROJ1-563,Split User Attribute Column in CDP.pageview_metrics,3,DONE,Engineer 4
+Q1-S5,PROJ1-561,MT+ Marketing Opt Out Detail Needed,2,DONE,Engineer 4
+Q1-S5,PROJ1-553,Performance review: CDP tables,1,CLOSED,Himanshu Rangi
+Q1-S5,PROJ1-549,SPIKE - GAM Ad Manager API - v202302 - Sunset on Feb 2024,5,DONE,Engineer 2
+Q1-S5,PROJ1-545,Prepare final Benchmarking/Report,5,DONE,Engineer 2
+Q1-S5,PROJ1-541,Monthly Report - BAU,3,DONE,Engineer 1
+Q1-S5,PROJ1-503,BAU DE Support Q1-24-S5,5,DONE,Engineer 1
+Q1-S5,PROJ1-503,BAU DE Support Q1-24-S5,8,DONE,Engineer 4
+Q1-S5,PROJ1-495,S5-Q4-24 Compliance requests 02/28-03/12,5,DONE,Engineer 1
+Q1-S5,PROJ1-489,S5-Q1-24 Sprint Airflow Support 02/28-03/12,2,DONE,Engineer 3
+Q1-S6,PROJ1-564,Identify & Map CDP segments equivalent to ADOBE Segments for various KPI Report tables,8,DONE,Engineer 1
+Q1-S6,PROJ1-562,SPIKE - Google Analytics - Detroit Trading Company Application and API setup for Company Marketplace,8,DONE,Engineer 4
+Q1-S6,PROJ1-557,New Table: Last Touch Channel Visits (only) YTD,5,DONE,Engineer 1
+Q1-S6,PROJ1-504,BAU DE Support Q1-24-S6,1,DONE,Engineer 1
+Q1-S6,PROJ1-504,BAU DE Support Q1-24-S6,20,DONE,Engineer 4
+Q1-S6,PROJ1-496,S6-Q1-24 Compliance requests 03/13-03/26,2,DONE,Engineer 1
+Q1-S6,PROJ1-490,S6-Q1-24 Sprint Airflow Support 03/13-03/26,2,DONE,Engineer 3
+Q2-S1,PROJ1-600,Create new columns for UTM parameters in the oos.fb_paid_social table,2,DONE,Engineer 4
+Q2-S1,PROJ1-581,Monthly Report - BAU March 2024,3,DONE,Engineer 1
+Q2-S1,PROJ1-573,BAU DE Support Q2-24-S1,1,DONE,Engineer 4
+Q2-S1,PROJ1-537,Buyer's Guide YMM Table,8,DONE,Engineer 1
+Q2-S1,PROJ1-531,DTC Incremental Data,5,DONE,Engineer 4
+Q2-S2,PROJ1-604,Traffic metrics segmented by Last touch Channel,3,DONE,Engineer 1
+Q2-S2,PROJ1-601,SPIKE: House Ads Clicks,3,DONE,Engineer 4
+Q2-S2,PROJ1-595,Populate CMS data into CMS Articles Table,5,DONE,Engineer 4
+Q2-S2,PROJ1-586,S2-Q2-24 Compliance requests,2,DONE,Engineer 1
+Q2-S2,PROJ1-585,S1-Q2-24 Compliance requests,2,DONE,Engineer 1
+Q2-S2,PROJ1-574,BAU DE Support Q2-24-S2,1,DONE,Engineer 1
+Q2-S2,PROJ1-574,BAU DE Support Q2-24-S2,2,DONE,Engineer 4
+Q2-S2,PROJ1-565,"Split User Attribute Column in CDP.userengagement_metrics, CDP.clicks",5,DONE,Engineer 4
+Q2-S3,PROJ1-597,SPIKE - Identify the LOE to backup Adobe data,5,DONE,Engineer 4
+Q2-S3,PROJ1-587,S3-Q2-24 Compliance requests,5,DONE,Engineer 1
+Q2-S3,PROJ1-582,Monthly Report - BAU April 2024,3,DONE,Engineer 1
+Q2-S3,PROJ1-575,BAU DE Support Q2-24-S3,1,DONE,Engineer 7
+Q2-S3,PROJ1-567,"Paid traffic metrics segmented by: paidsocial, admedia, and trueanthem",8,DONE,Engineer 1
+Q2-S4,PROJ1-631,ELT Signoff - New Reporting Strategy,1,DONE,Engineer 6
+Q2-S4,PROJ1-629,Documentation - ETL Process,1,DONE,Engineer 4
+Q2-S4,PROJ1-622,Spike - Identify the article dates available in the API,1,DONE,Engineer 8
+Q2-S4,PROJ1-619,Spike - New tables definition (working session),2,DONE,Engineer 8
+Q2-S4,PROJ1-616,Business approval of the new Reporting Strategy,1,DONE,Engineer 6
+Q2-S4,PROJ1-612,Update oos.uvs_pvs_by_categories_timeframe_traffic with OTHER_AND_BG category before 03.17,3,CLOSED,Engineer 1
+Q2-S4,PROJ1-611,Update bi_external.adobe_article_summary_by_last_touch_channel (2),3,CLOSED,Engineer 7
+Q2-S4,PROJ1-599,Update Kyle's Facebook Scripts w New Paid Social UTM Parameters,5,DONE,Engineer 4
+Q2-S4,PROJ1-588,S4-Q2-24 Compliance requests,2,DONE,Engineer 1
+Q2-S4,PROJ1-576,BAU DE Support Q2-24-S4,5,DONE,Engineer 1
+Q2-S5,PROJ1-614,Create adobe data-feed backup for future analysis,3,DONE,Engineer 4
+Q2-S5,PROJ1-613,SPIKE - Test whether MTID or PPID fix issue with incremental impressions in GAM data,3,DONE,Engineer 1
+Q2-S5,PROJ1-610,Update bi_external.adobe_article_summary_by_last_touch_channel (1),3,DONE,Engineer 1
+Q2-S5,PROJ1-589,S5-Q2-24 Compliance requests,2,DONE,Engineer 1
+Q2-S5,PROJ1-577,BAU DE Support Q2-24-S5,8,DONE,Engineer 1
+Q2-S5,PROJ1-577,BAU DE Support Q2-24-S5,13,DONE,Engineer 4
+Q2-S5,PROJ1-570,Paid Social Table UTM Parameters Update,8,DONE,Engineer 1
+Q1-S1,PROJ2-265,Curated Page Analytics,3,DONE,Engineer 5
+Q1-S1,PROJ2-263,Fix Security Vulnerability in nitrous-web-sdk,3,DONE,Engineer 5
+Q1-S1,PROJ2-11,Analytics library setup,13,DONE,Engineer 5
+Q1-S2,PROJ2-271,Nitrous - Photo Gallery Analytics,3,DONE,Engineer 5
+Q1-S2,PROJ2-266,Media Analytics,5,DONE,Engineer 5
+Q1-S2,PROJ2-211,CDP - MVP Events,1,DONE,Engineer 5
+Q1-S3,PROJ2-505,Ads - Add mtid and content_type to targeting,3,DONE,Engineer 5
+Q1-S3,PROJ2-497,Nitrous: Ad Render Complete,5,DONE,Engineer 5
+Q1-S3,PROJ2-352,Analytics - Page View Changes,3,DONE,Engineer 5
+Q1-S3,PROJ2-339,Nitrous - Revisit Click Tracking,5,DONE,Engineer 5
+Q1-S3,PROJ2-262,Nitrous - Use Vercel Edge Config for Event Config,3,DONE,Engineer 5
+Q1-S4,PROJ2-645,Analaytics - Fixes Pt 2,5,DONE,Engineer 5
+Q1-S4,PROJ2-567,Analytics - Fixes for Events,5,DONE,Engineer 5
+Q1-S4,PROJ2-532,Analytics - CDP - Capture car details on Article/Listicle/Gallery pages,3,DONE,Engineer 5
+Q1-S4,PROJ2-506,Nitrous - Track DTC Widget,5,DONE,Engineer 5
+Q1-S5,PROJ2-834,Analytics - Set PPID for all ad requests,1,DONE,Engineer 5
+Q1-S5,PROJ2-685,Analytics - New Marketing processing rules implementation,5,DONE,Engineer 5
+Q1-S5,PROJ2-678,Analytics - UAT Fixes 3,5,DONE,Engineer 5
+Q1-S5,PROJ2-640,Analytics - CDP - Articles - Global Attribute - Content Brand,3,DONE,Engineer 5
+Q1-S5,PROJ2-383,Analytics - inventory_widget_type,3,DONE,Engineer 5
+Q1-S6,PROJ2-905,Analytics - Update view_group Logic for Article Pages,3,DONE,Engineer 5
+Q1-S6,PROJ2-892,Analytics - Set ppid using gpt/ima sdk,3,DONE,Engineer 5
+Q1-S6,PROJ2-881,Analytics - 404/500 page tracking,3,DONE,Engineer 5
+Q1-S6,PROJ2-875,Analytics - add attribute app_name to differentiate Next traffic from Lithium traffic,1,DONE,Engineer 5
+Q1-S6,PROJ2-861,Analytics - Synchronize ppid and mtid,3,DONE,Engineer 5
+Q1-S6,PROJ2-849,Analytics - Production Environment Variable,1,DONE,Engineer 5
+Q1-S6,PROJ2-847,Analytics - Remove content_authors and replace with 4 new attributes,3,DONE,Engineer 5
+Q1-S6,PROJ2-843,Analytics - Curated View Name,3,DONE,Engineer 5
+Q2-S1,PROJ2-1066,Post shared in X with incorrect format,3,DONE,Engineer 5
+Q2-S1,PROJ2-1052,Vertical Image Gallery: content sections update,3,DONE,Engineer 5
+Q2-S1,PROJ2-1005,Update page and video ad requests to include all the UTM attributes,3,DONE,Engineer 5
+Q2-S1,PROJ2-981,Ads - Add Next Web Targeting Value to All Ad Configs,3,DONE,Engineer 5
+Q2-S1,PROJ2-955,Analytics - Track Client Side Error Page,3,DONE,Engineer 5
+Q2-S1,PROJ2-952,Analytics - Element Position Same For Different Article Strip Cards,3,CLOSED,Engineer 5
+Q2-S1,PROJ2-920,CDP - split content_id information,3,DONE,Engineer 5
+Q2-S1,PROJ2-915,Add Comscore tag/script to site via GTM,1,DONE,Engineer 5
+Q2-S2,PROJ2-1147,Analytics - Ad Events,3,DONE,Engineer 5
+Q2-S3,PROJ2-1197,Ads - Fixes Engagement Summary Attributes,5,DONE,Engineer 5
+Q2-S3,PROJ2-1192,Analytics - Amplitude - Fix Release Title,5,DONE,Engineer 5
+Q2-S3,PROJ2-1166,Analytics - UES reporting an incorrect value for total_content_sections,3,DONE,Engineer 5
+Q2-S3,PROJ2-196,Analytics - Amplitude - Track Build Numbers,5,DONE,Engineer 5
+Q2-S4,PROJ2-1064,Analytics - Video Detail Page,3,DONE,Engineer 5
+Q2-S5,PROJ2-1374,Lithium Analytics - Remove additional calls to report Page Views,5,DONE,Engineer 5
+Q2-S5,PROJ2-1357,Persist UTM parameters to pass to Ads Components on subsequent page loads,5,DONE,Engineer 5
+Q2-S5,PROJ2-1350,Analytics - Include YMM ID value to GAM,5,DONE,Engineer 5
+Q2-S5,PROJ2-1332,Analytics - BG Specs Page,3,DONE,Engineer 5
+Q2-S5,PROJ2-1304,Update Ad Impression event to include ad_size attribute,3,DONE,Engineer 5
+Q2-S5,PROJ2-1262,Analytics - Include Original live publish date at page level,3,DONE,Engineer 5
+Q2-S5,PROJ2-1261,Analytics - New Attribute previous_view_name at page level,3,DONE,Engineer 5
+Q2-S5,PROJ2-1260,Analytics - Use Canonical URL to set view_ attributes,3,DONE,Engineer 5
+Q2-S5,PROJ2-1259,Analytics - Include car attributes car_* and car_*_list in all pages,3,DONE,Engineer 5
+Q2-S5,PROJ2-1258,Analytics - Remove additional calls to report Page Views,3,DONE,Engineer 5
+Q2-S5,PROJ2-1174,Q1-24 - Make Analytics easier to diagnose and debug,3,DONE,Engineer 5
+Q2-S5,PROJ2-1078,Analytics: BG YMM pages,3,DONE,Engineer 5
+Q2-S5,PROJ2-1051,Analytics: BG Home page,3,DONE,Engineer 5
+Q1-S6,PROJ3-9 *,Analytics - Make MTID storage more sturdy,3,Done,Engineer 5
+Q1-S6,PROJ3-10 *,Video View End - Missing Page Level Information,5,Done,Engineer 5
+Q2-S3,PROJ3-23,Ads - Fixes Engagement Summary Attributes,5,DONE,Engineer 5
+Q2-S3,PROJ3-22,Update the Marketing Processing rules,1,DONE,Engineer 5
+Q2-S3,PROJ3-18,Create the new nitrous_analytics database,1,DONE,Engineer 5
+Q2-S3,PROJ3-4,HUD is not displaying the ranks in the correct position,5,DONE,Engineer 5
