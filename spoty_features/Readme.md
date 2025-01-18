@@ -20,3 +20,6 @@ That will increase our user database, engagement, and loyalty to our Brand. In t
 
 ## Data Structure
 ![dataset](https://github.com/user-attachments/assets/c89db8a6-099c-4d3c-afc0-995f6ba6f461)
+
+## Definitions
+![definitions](https://github.com/user-attachments/assets/7c3eaee1-b33f-4bae-85fe-40e08a9ce4cd)
